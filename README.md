@@ -1,6 +1,5 @@
 # EagleEye
 
-
 ## ⚠️ Disclaimer & Ethical Use
 
 **This project is intended for educational and research purposes only.**
